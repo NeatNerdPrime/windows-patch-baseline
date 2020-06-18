@@ -1,64 +1,32 @@
 # Changelog
 
-## [0.5.2](https://github.com/dev-sec/windows-patch-baseline/tree/0.5.2) (2020-06-18)
+## [0.0.1](https://github.com/NeatNerdPrime/windows-patch-baseline/tree/0.0.1) (2020-06-18)
 
-[Full Changelog](https://github.com/dev-sec/windows-patch-baseline/compare/0.5.1...0.5.2)
-
-**Merged pull requests:**
-
-- version alignment [\#16](https://github.com/dev-sec/windows-patch-baseline/pull/16) ([micheelengronne](https://github.com/micheelengronne))
-
-## [0.5.1](https://github.com/dev-sec/windows-patch-baseline/tree/0.5.1) (2020-06-18)
-
-[Full Changelog](https://github.com/dev-sec/windows-patch-baseline/compare/0.5.0...0.5.1)
-
-**Closed issues:**
-
-- Query for control verify-kb [\#14](https://github.com/dev-sec/windows-patch-baseline/issues/14)
+[Full Changelog](https://github.com/NeatNerdPrime/windows-patch-baseline/compare/0.5.0...0.0.1)
 
 **Merged pull requests:**
 
-- github actions release [\#15](https://github.com/dev-sec/windows-patch-baseline/pull/15) ([micheelengronne](https://github.com/micheelengronne))
+- \[pull\] master from dev-sec:master [\#1](https://github.com/NeatNerdPrime/windows-patch-baseline/pull/1) ([pull[bot]](https://github.com/apps/pull))
 
-## [0.5.0](https://github.com/dev-sec/windows-patch-baseline/tree/0.5.0) (2019-05-16)
+## [0.5.0](https://github.com/NeatNerdPrime/windows-patch-baseline/tree/0.5.0) (2019-05-16)
 
-[Full Changelog](https://github.com/dev-sec/windows-patch-baseline/compare/0.4.0...0.5.0)
+[Full Changelog](https://github.com/NeatNerdPrime/windows-patch-baseline/compare/0.4.0...0.5.0)
 
-**Closed issues:**
+## [0.4.0](https://github.com/NeatNerdPrime/windows-patch-baseline/tree/0.4.0) (2017-05-08)
 
-- Error running against a Azure WIN2012R2 VM [\#8](https://github.com/dev-sec/windows-patch-baseline/issues/8)
+[Full Changelog](https://github.com/NeatNerdPrime/windows-patch-baseline/compare/0.3.1...0.4.0)
 
-**Merged pull requests:**
+## [0.3.1](https://github.com/NeatNerdPrime/windows-patch-baseline/tree/0.3.1) (2017-03-01)
 
-- Bump version to 0.5.0 and switch to inspec 3 for check [\#12](https://github.com/dev-sec/windows-patch-baseline/pull/12) ([alexpop](https://github.com/alexpop))
-- Update issue templates [\#11](https://github.com/dev-sec/windows-patch-baseline/pull/11) ([rndmh3ro](https://github.com/rndmh3ro))
-- Modify `\#fetch\_updates` to always return an Array [\#10](https://github.com/dev-sec/windows-patch-baseline/pull/10) ([jerryaldrichiii](https://github.com/jerryaldrichiii))
+[Full Changelog](https://github.com/NeatNerdPrime/windows-patch-baseline/compare/0.3.0...0.3.1)
 
-## [0.4.0](https://github.com/dev-sec/windows-patch-baseline/tree/0.4.0) (2017-05-08)
+## [0.3.0](https://github.com/NeatNerdPrime/windows-patch-baseline/tree/0.3.0) (2016-09-08)
 
-[Full Changelog](https://github.com/dev-sec/windows-patch-baseline/compare/0.3.1...0.4.0)
+[Full Changelog](https://github.com/NeatNerdPrime/windows-patch-baseline/compare/0.2.0...0.3.0)
 
-**Merged pull requests:**
+## [0.2.0](https://github.com/NeatNerdPrime/windows-patch-baseline/tree/0.2.0) (2016-08-23)
 
-- restrict ruby testing to version 2.3.3 [\#7](https://github.com/dev-sec/windows-patch-baseline/pull/7) ([atomic111](https://github.com/atomic111))
-- improve code style [\#6](https://github.com/dev-sec/windows-patch-baseline/pull/6) ([chris-rock](https://github.com/chris-rock))
-
-## [0.3.1](https://github.com/dev-sec/windows-patch-baseline/tree/0.3.1) (2017-03-01)
-
-[Full Changelog](https://github.com/dev-sec/windows-patch-baseline/compare/0.3.0...0.3.1)
-
-**Merged pull requests:**
-
-- return empty array, if the operating is not supported [\#3](https://github.com/dev-sec/windows-patch-baseline/pull/3) ([chris-rock](https://github.com/chris-rock))
-- trying to fix line 166 [\#2](https://github.com/dev-sec/windows-patch-baseline/pull/2) ([rojomisin](https://github.com/rojomisin))
-
-## [0.3.0](https://github.com/dev-sec/windows-patch-baseline/tree/0.3.0) (2016-09-08)
-
-[Full Changelog](https://github.com/dev-sec/windows-patch-baseline/compare/0.2.0...0.3.0)
-
-## [0.2.0](https://github.com/dev-sec/windows-patch-baseline/tree/0.2.0) (2016-08-23)
-
-[Full Changelog](https://github.com/dev-sec/windows-patch-baseline/compare/76c51143fdf53b2a5fa4e9c617b85ce13b0fbfc1...0.2.0)
+[Full Changelog](https://github.com/NeatNerdPrime/windows-patch-baseline/compare/76c51143fdf53b2a5fa4e9c617b85ce13b0fbfc1...0.2.0)
 
 
 
